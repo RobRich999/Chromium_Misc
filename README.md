@@ -1,2 +1,2 @@
 # Chromium_Misc
-Chromium browser development, experimental, and other builds.
+Chromium browser developmental, experimental, and other builds.
