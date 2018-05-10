@@ -1,2 +1,2 @@
 # Chromium_Misc
-Chromium browser developmental, experimental, and other builds.
+Chromium browser builds for Linux, Windows 32-bit, and exeriments.
