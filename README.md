@@ -3,4 +3,4 @@ Chromium browser developmental, experimental, and other builds.
 
 Link to latest build release:
 
-https://github.com/RobRich999/Chromium_Misc/releases/tag/v86.0.4229.0-r796289-linux64-deb
+https://github.com/RobRich999/Chromium_Misc/releases/tag/v87.0.4243.0-r800881-linux64-deb
